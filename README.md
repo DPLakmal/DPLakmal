@@ -2,15 +2,45 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pubudu+Lakmal;" />
 </h1>
 
-<p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 I'm learning Next.js
-    <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 Currently diving deep into Next.js to build blazing-fast web applications.
-</p>
-<center>
-## About Me
 
-Hey there! I'm Pubudu Lakmal, a passionate software engineer with a love for building awesome web experiences. My journey in coding has been an exciting one, filled with challenges and triumphs, and I'm always eager to learn and grow.
+<center>
+ 
+## About Me
+<!--
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 I'm learning Next.js
+    <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 Currently diving deep into Next.js to build blazing-fast web applications.
+</p>
+
+x I'm Pubudu Lakmal, a passionate software engineer with a love for building awesome web experiences. My journey in coding has been an exciting one, filled with challenges and triumphs, and I'm always eager to learn and grow. -->
+
+
+I'm a student pursuing an HND in IT with a passion for developing innovative software solutions. My current projects and learning endeavors reflect my enthusiasm for full-stack development, particularly in the areas of Next.js, TypeScript, and various backend technologies.
+
+🔭 **I’m currently working on:**
+- **LMS-App**: An E-Learning Management System for ATI using Next.js, Prisma, and TypeScript.
+- **LMS-App-Backend-API**: The backend API for the LMS-App, built with Node.js, Express, TypeScript, and MongoDB Atlas.
+- **Book_Store**: A CRUD RESTful backend for a bookstore application using the MERN stack.
+
+🌱 **I’m currently learning:**
+- Advanced TypeScript for scalable and maintainable code.
+- Next.js for server-side rendering and static site generation.
+- Backend development with Go and Gorilla Mux.
+
+👯 **I’m looking to collaborate on:**
+- Open-source projects that focus on e-learning platforms or educational tools.
+- Innovative web applications using Next.js and TypeScript.
+- Backend development projects with Node.js or Go.
+
+## Projects
+
+### Public Repositories
+
+- **[LMS-App-Backend-API](https://github.com/dplakmal/LMS-App-Backend-API)**: Node.js, Express, TypeScript, MongoDB Atlas.
+- **[ATI-User-Login-System](https://github.com/dplakmal/ATI-User-Login-System)**: User login system in PHP.
+- **[Book_Store](https://github.com/dplakmal/Book_Store)**: MERN stack bookstore application with CRUD operations.
+- **[Flask_Todo_App](https://github.com/dplakmal/Flask_Todo_App)**: Flask-based todo application with SQLite.
 
 
 ## Skills
