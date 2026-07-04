@@ -32,11 +32,7 @@
 x I'm Pubudu Lakmal, a passionate software engineer with a love for building awesome web experiences. My journey in coding has been an exciting one, filled with challenges and triumphs, and I'm always eager to learn and grow. -->
 
 
-Aspiring Software Engineer currently pursuing a Bachelor of Information Technology (BIT) with a strong academic record (Current GPA: 3.87). Passionate about designing and developing scalable, high-performance software solutions with modern web technologies.
-
-Experienced in full-stack development with a strong focus on Next.js, TypeScript, Node.js, Express, MongoDB, and modern backend architecture. Continuously exploring software engineering best practices, scalable system design, and performance optimization to build production-ready applications.
-
-I enjoy solving real-world problems through clean, maintainable code and creating systems that deliver both technical efficiency and excellent user experiences.
+Aspiring Software Engineer specializing in scalable full-stack systems using Next.js, TypeScript, Node.js, Express, and MongoDB. Focused on clean architecture, performance optimization, and production-ready web applications while exploring advanced backend development with Go.
 
 🔭 **I’m currently working on:**
 - **LMS-App**: An E-Learning Management System for ATI using Next.js, Prisma, and TypeScript.
