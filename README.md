@@ -9,7 +9,7 @@ I’m a Software Engineer passionate about building **scalable backend systems, 
 - 🤖 **Exploring:** Agentic AI, LLM integrations, and AI-assisted software engineering
 - ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions, and CI/CD
 - 🎓 **Education:** Bachelor of Information Technology — University of Moratuwa
-- 🌐 **Portfolio:** [dplakmal.me](https://dplakmal.me)
+- 🌐 **Portfolio:** [dplakmal.me](https://dplakmal.vercel.app)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dplakmal/)
 
 ---
