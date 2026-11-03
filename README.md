@@ -1,108 +1,111 @@
-# Hi, I'm Pubudu Lakmal 👋
+# 👋 Hi there, I'm Pubudu Lakmal
 
-### Software Engineer | Backend & Distributed Systems | Cloud & AI Engineering
+<div align="center">
 
-I’m a Software Engineer passionate about building **scalable backend systems, distributed applications, and AI-powered software**. I enjoy solving engineering problems involving system architecture, performance, reliability, and automation.
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Distributed+Systems+Enthusiast;Building+Scalable+%26+Reliable+Applications;Exploring+Cloud+%26+AI+Engineering" alt="Typing SVG" />
+</a>
 
-- 🔭 **Building:** Full-stack applications, Go microservices, and AI-powered systems
-- ⚙️ **Core focus:** Backend engineering, REST APIs, distributed systems, and cloud infrastructure
-- 🤖 **Exploring:** Agentic AI, LLM integrations, and AI-assisted software engineering
-- ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions, and CI/CD
-- 🎓 **Education:** Bachelor of Information Technology — University of Moratuwa
-- 🌐 **Portfolio:** [dplakmal.me](https://dplakmal.vercel.app)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dplakmal/)
+<br/>
+
+<img height="280" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Developer coding animation" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
+
+I'm a Software Engineer passionate about building scalable backend systems, distributed applications, and AI-powered software. I enjoy exploring system architecture, solving engineering challenges, and turning ideas into reliable software.
+
+- 🔭 Currently building **Go microservices and full-stack applications**
+- ⚙️ Focused on **Backend Engineering, Distributed Systems & System Design**
+- ☁️ Exploring **AWS, Docker, CI/CD & Cloud Infrastructure**
+- 🤖 Interested in **Agentic AI, LLMs & Intelligent Automation**
+- 🎓 Bachelor of Information Technology — **University of Moratuwa**
+- 🌐 Portfolio: **[dplakmal.me](https://dplakmal.me)**
+- 💬 Ask me about **Go, REST APIs, PostgreSQL, React & Backend Architecture**
+- 👯 Open to collaborating on **Open Source & Engineering Projects**
+
+---
+
+### 🤝 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/dplakmal/">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+</a>
+<a href="https://github.com/DPLakmal">
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+</a>
+<a href="https://dplakmal.me">
+  <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+### 🛠️ Languages and Tools
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,java,sql" alt="Languages" />
+</p>
 
 **Backend & Frontend**
 
-![Go](https://img.shields.io/badge/Go_Microservices-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,nextjs,angular,flutter" alt="Frameworks" />
+</p>
 
-**Databases, Messaging & Caching**
+**Databases & Messaging**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,elasticsearch" alt="Databases and messaging" />
+</p>
 
-**Cloud, DevOps & AI**
+**Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AI](https://img.shields.io/badge/AI_&_LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx" alt="Cloud and DevOps" />
+</p>
 
----
+**Development Tools**
 
-## 🚀 Featured Projects
-
-### 🌍 GuideNow — Real-Time Tourist Guide Matching
-A platform designed to connect tourists with nearby, available tour guides in Sri Lanka.
-
-- Location-based guide matching and live availability
-- Go microservices and real-time communication
-- AI-powered natural-language search
-- **Tech:** Go, Flutter, Next.js, PostgreSQL, Redis, WebSockets, AWS
-
-### 📦 WhereMyPack — Distributed Order Tracking
-An event-driven order tracking system designed around independently deployed microservices.
-
-- Order, inventory, payment, notification, and tracking services
-- Kafka-based event processing and failure recovery
-- Real-time order updates and courier tracking
-- **Tech:** Go, Apache Kafka, Redis, Angular, WebSockets, AWS
-
-### 🛒 ShopStream — E-Commerce with AI Search
-A full-stack e-commerce platform featuring payment integration and intelligent product discovery.
-
-- Stripe payment processing with webhook verification and idempotency
-- Elasticsearch-powered product search
-- Natural-language queries converted into structured search filters
-- **Tech:** Next.js, TypeScript, Spring Boot, PostgreSQL, Redis, Elasticsearch, AWS
-
-### 📄 InvoiceFlow — Asynchronous Invoice Processing
-An invoice management system built around background document-processing workflows.
-
-- Asynchronous PDF and image processing
-- Celery workers, OCR, and structured data extraction
-- Job status tracking, retries, and persistent storage
-- **Tech:** Python, FastAPI, Celery, Redis, PostgreSQL, Next.js, Docker
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,bash" alt="Development tools" />
+</p>
 
 ---
 
-## 🧠 Engineering Interests
+### 🚀 Featured Projects
 
-- Designing maintainable, scalable backend architectures
-- Distributed systems, event-driven communication, and fault tolerance
-- Database design, indexing, and query optimization
-- Cloud infrastructure, containerization, and automated deployments
-- AI integrations, LLM applications, and agentic development workflows
-- Building reliable software through testing, observability, and clean code
+| Project | Description | Technologies |
+|---|---|---|
+| 🌍 **GuideNow** | Real-time tourist guide matching platform | Go, Flutter, PostgreSQL, Redis |
+| 📦 **WhereMyPack** | Event-driven distributed order tracking | Go, Kafka, Redis, AWS |
+| 🛒 **ShopStream** | E-commerce with intelligent product search | Next.js, Spring Boot, PostgreSQL |
+| 📄 **InvoiceFlow** | Asynchronous document processing | Python, FastAPI, Celery, Redis |
 
 ---
 
-## 🤝 Let's Connect
+### ☕ Support My Work
 
-I'm always interested in discussing software engineering, backend architecture, cloud technologies, and practical AI applications.
+<p>
+<a href="https://buymeacoffee.com/dplakmal">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="220" alt="Buy Me A Coffee" />
+</a>
+</p>
 
-**[Portfolio](https://dplakmal.me) · [LinkedIn](https://www.linkedin.com/in/dplakmal/) · [GitHub](https://github.com/DPLakmal)**
+---
+
+<div align="center">
+
+### 💭 Engineering Mindset
 
 *Build thoughtfully. Engineer reliably. Keep learning.* 🚀
+
+</div>
