@@ -8,8 +8,14 @@
 
 <br/>
 
-<img height="280" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Developer coding animation" />
-
+  <video
+    src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/gemini_generated_video_619b43d6.mp4"
+    controls
+    autoplay
+    loop
+    width="85%"
+    style="border-radius: 20px; overflow: hidden;"
+  >
 </div>
 
 ---
