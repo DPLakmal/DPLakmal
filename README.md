@@ -13,7 +13,7 @@
     src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/My%20Dev%20Lifestyle.gif"
     width="85%"
     alt="Pubudu Lakmal - Developer Lifestyle"
-    style="border-radius: 20px;"
+    style="border-radius: 20px !important;"
   />
 </div>
 </div>
