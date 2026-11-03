@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Distributed+Systems+Enthusiast;Building+Scalable+%26+Reliable+Applications;Exploring+Cloud+%26+AI+Engineering" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Backend+%26+Cloud;Building+Scalable+Systems+with+Go;Distributed+Systems+%26+Microservices;Engineering+Reliable+Backend+Solutions;Exploring+AI+%26+Agentic+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
