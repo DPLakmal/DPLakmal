@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center">
-  <div style="width: 85%; border-radius: 20px; overflow: hidden;">
+  <div style="width: 15%; border-radius: 20px; overflow: hidden;">
     <img
-      src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/My%20Dev%20Lifestyle.gif"
-      width="100%"
+      src="https://github.com/DPLakmal/DPLakmal/blob/main/My_Dev%20Lifestyle.gif"
+      width="75%"
       alt="Pubudu Lakmal - Developer Lifestyle"
     />
   </div>
