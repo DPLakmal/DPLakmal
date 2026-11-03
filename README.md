@@ -8,13 +8,14 @@
 
 <br/>
 
- <div align="center">
-  <img
-    src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/My%20Dev%20Lifestyle.gif"
-    width="85%"
-    alt="Pubudu Lakmal - Developer Lifestyle"
-    style="border-radius: 20px !important;"
-  />
+<div align="center">
+  <div style="width: 85%; border-radius: 20px; overflow: hidden;">
+    <img
+      src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/My%20Dev%20Lifestyle.gif"
+      width="100%"
+      alt="Pubudu Lakmal - Developer Lifestyle"
+    />
+  </div>
 </div>
 </div>
 
