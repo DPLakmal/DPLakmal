@@ -8,14 +8,14 @@
 
 <br/>
 
-  <video
-    src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/gemini_generated_video_619b43d6.mp4"
-    controls
-    autoplay
-    loop
+ <div align="center">
+  <img
+    src="https://github.com/DPLakmal/DPLakmal/raw/refs/heads/main/My%20Dev%20Lifestyle.gif"
     width="85%"
-    style="border-radius: 20px; overflow: hidden;"
-  >
+    alt="Pubudu Lakmal - Developer Lifestyle"
+    style="border-radius: 20px;"
+  />
+</div>
 </div>
 
 ---
