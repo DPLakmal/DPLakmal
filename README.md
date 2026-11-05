@@ -30,7 +30,7 @@ I'm a Software Engineer passionate about building scalable backend systems, dist
 - ☁️ Exploring **AWS, Docker, CI/CD & Cloud Infrastructure**
 - 🤖 Interested in **Agentic AI, LLMs & Intelligent Automation**
 - 🎓 Bachelor of Information Technology — **University of Moratuwa**
-- 🌐 Portfolio: **[dplakmal.me](https://dplakmal.me)**
+- 🌐 Portfolio: **[dplakmal.me](https://dplakmal.vercel.app)**
 - 💬 Ask me about **Go, REST APIs, PostgreSQL, React & Backend Architecture**
 - 👯 Open to collaborating on **Open Source & Engineering Projects**
 
